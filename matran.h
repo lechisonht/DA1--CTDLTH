@@ -1,0 +1,20 @@
+#pragma once
+void nhapmatran(float** s, int n);
+void nhapmatran2(float** s, int n, int m);
+void xuatmatran(float** s, int n);
+void xuatmatran2(float** s, int n, int m);
+void free2d(float** a, int n);
+void khoitaoIn(float** ns, int n);
+void copy(float** a, float** b, int n);
+void copy2(float** a, float** b, int n);
+float dinhthuc(float** s, int n);
+void ndmatran(float** s, float** ns, int n);
+void tichmt(float** x, float** y, float** z, int a, int b, int c);
+void dangbt(float** s, int a, int b);
+int rankmt(float** s, int a, int b);
+void matran1();
+void matran2();
+void matran3();
+void matran4();
+void matran5();
+void MATRAN();
