@@ -1,0 +1,6 @@
+﻿  main.cpp
+  vector.cpp
+D:\Năm 2\CTDL&GT\DA1\DA1\DA1\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+D:\Năm 2\CTDL&GT\DA1\DA1\DA1\vector.cpp(70,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DA1.vcxproj -> D:\Năm 2\CTDL&GT\DA1\DA1\Debug\DA1.exe

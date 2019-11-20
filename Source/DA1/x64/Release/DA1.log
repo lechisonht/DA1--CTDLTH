@@ -1,0 +1,11 @@
+﻿  main.cpp
+  matran.cpp
+D:\Năm 2\CTDL&GT\18120534_18120535\Source\DA1\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vector.cpp
+D:\Năm 2\CTDL&GT\18120534_18120535\Source\DA1\matran.cpp(252,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Năm 2\CTDL&GT\18120534_18120535\Source\DA1\vector.cpp(70,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 39 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DA1.vcxproj -> D:\Năm 2\CTDL&GT\18120534_18120535\Source\x64\Release\DA1.exe

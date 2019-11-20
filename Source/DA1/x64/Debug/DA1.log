@@ -1,0 +1,8 @@
+﻿  main.cpp
+  matran.cpp
+D:\Năm 2\CTDL&GT\18120534_18120535\Source\DA1\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vector.cpp
+D:\Năm 2\CTDL&GT\18120534_18120535\Source\DA1\matran.cpp(252,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\Năm 2\CTDL&GT\18120534_18120535\Source\DA1\vector.cpp(70,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DA1.vcxproj -> D:\Năm 2\CTDL&GT\18120534_18120535\Source\x64\Debug\DA1.exe
